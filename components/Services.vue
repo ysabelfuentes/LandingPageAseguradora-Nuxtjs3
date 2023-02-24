@@ -19,7 +19,7 @@
                             <h4 class="mb-3">Seguros de Vida</h4>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
                                 diam sed stet.</p>
-                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read More</a>
+                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Leer más</a>
                         </div>
                     </div>
                 </div>
@@ -35,7 +35,7 @@
                             <h4 class="mb-3">Seguros de Salud</h4>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
                                 diam sed stet.</p>
-                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read More</a>
+                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Leer más</a>
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                             <h4 class="mb-3">Seguros de Coches</h4>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
                                 diam sed stet.</p>
-                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read More</a>
+                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Leer máse</a>
                         </div>
                     </div>
                 </div>
@@ -67,7 +67,7 @@
                             <h4 class="mb-3">Seguros de Motos</h4>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
                                 diam sed stet.</p>
-                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read More</a>
+                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Leer más</a>
                         </div>
                     </div>
                 </div>
@@ -83,7 +83,7 @@
                             <h4 class="mb-3">Seguros de Hogar</h4>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
                                 diam sed stet.</p>
-                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read More</a>
+                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Leer más</a>
                         </div>
                     </div>
                 </div>
@@ -99,7 +99,7 @@
                             <h4 class="mb-3">Seguros de Decesos</h4>
                             <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
                                 diam sed stet.</p>
-                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Read More</a>
+                            <a class="btn btn-sm" href=""><i class="fa fa-plus text-primary me-2"></i>Leer más</a>
                         </div>
                     </div>
                 </div>
