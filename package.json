@@ -1,0 +1,17 @@
+{
+  "name": "aseguradora-nuxtjs",
+  "version": "1.0.0",
+  "description": "My firts Nuxt.js project",
+  "author": "ysabelfuentes",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.2.2"
+  }
+}
