@@ -8,13 +8,13 @@
                 <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+34 345 678 569</p>
                 <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@aseguradora.com</p>
                 <div class="col-md-6 offset-md-3 pt-2 text-center">
-                    <a class="btn btn-square btn-outline-light rounded-circle me-4" href=""><i
+                    <a class="btn btn-square btn-outline-light rounded-circle me-4" href="#"><i
                             class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-square btn-outline-light rounded-circle me-4" href=""><i
+                    <a class="btn btn-square btn-outline-light rounded-circle me-4" href="#"><i
                             class="fab fa-twitter"></i></a>
-                    <a class="btn btn-square btn-outline-light rounded-circle me-4" href=""><i
+                    <a class="btn btn-square btn-outline-light rounded-circle me-4" href="#"><i
                             class="fab fa-linkedin-in"></i></a>
-                    <a class="btn btn-square btn-outline-light rounded-circle me-4" href=""><i
+                    <a class="btn btn-square btn-outline-light rounded-circle me-4" href="#"><i
                             class="fab fa-instagram"></i></a>
                 </div>
             </div>
