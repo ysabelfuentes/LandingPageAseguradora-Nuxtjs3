@@ -4,6 +4,9 @@ export default defineNuxtConfig({
 
   app: {
     head: {
+      htmlAttrs: {
+        lang: 'es'
+      },
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
       title: 'Aseguradora',
@@ -35,9 +38,9 @@ export default defineNuxtConfig({
 
   /* Template Stylesheet */
   css: ['@/assets/css/style.css', '@/assets/css/bootstrap.min.css'],
-  
+
   /* nuxt/image-edge borde */
   modules: [
     '@nuxt/image-edge',
-]
+  ]
 })
