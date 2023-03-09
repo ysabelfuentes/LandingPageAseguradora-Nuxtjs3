@@ -14,13 +14,10 @@ export default defineNuxtConfig({
         { name: 'description', content: 'My first nuxt site.' },
       ],
       link: [
-        /* Google Web Fonts 
-        { rel: 'preload', href: 'https://fonts.googleapis.com', crossorigin: 'anonymous' },
-        { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: 'anonymous' }, */
+        /* Google Web Fonts */
         { rel: 'preconnect', href: 'https://fonts.googleapis.com', crossorigin: 'anonymous' },
         { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: 'anonymous' },
-        /*{ rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap' },
-        { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Jost:wght@500;600;700&family=Open+Sans:wght@400;500&display=swap' },
+        /*{ rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Jost:wght@500;600;700&family=Open+Sans:wght@400;500&display=swap' },
        Icon Font Stylesheet */
         { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css' },
         { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css' },
@@ -32,10 +29,9 @@ export default defineNuxtConfig({
         { src: "https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" },
         { src: "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js", integrity: "sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13", crossorigin: "anonymous" },
 
-        /* Parallaxs Libraries 
-        { src: "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" }, */
-        { src: "https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" },
-        { src: "https://cdn.jsdelivr.net/parallax.js/1.4.2/parallax.min.js" },
+        /* Parallaxs Libraries  */
+         { src: "https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" },  
+        { src: "https://cdn.jsdelivr.net/parallax.js/1.4.2/parallax.min.js" }, 
       ],
     }
   },
