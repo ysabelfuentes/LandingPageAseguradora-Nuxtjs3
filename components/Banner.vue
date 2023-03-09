@@ -4,7 +4,7 @@
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <nuxt-img format="webp" class="w-100" src="/img/carousel-1.jpg" alt="Image" width="1536" height="864"/>
+                    <nuxt-img format="webp" class="w-100" src="/img/carousel-1.jpg" alt="Image" width="1350" height="864"/>
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
