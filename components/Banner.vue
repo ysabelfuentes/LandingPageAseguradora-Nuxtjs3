@@ -4,7 +4,7 @@
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <nuxt-img format="webp" class="w-100" src="/img/carousel-1.jpg" alt="Image"/>
+                    <nuxt-img format="webp" class="w-100" src="/img/carousel-1.jpg" alt="Image" width="1067" height="600"/>
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
@@ -18,7 +18,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <nuxt-img format="webp" class="w-100" src="/img/carousel-2.jpg" alt="Image"/>
+                    <nuxt-img format="webp" class="w-100" src="/img/carousel-2.jpg" alt="Image" width="1067" height="600"/>
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
