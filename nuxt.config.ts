@@ -26,9 +26,9 @@ export default defineNuxtConfig({
       script: [
         /* JavaScript Libraries */
         { src: 'https://code.jquery.com/jquery-3.6.4.min.js', integrity: 'sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=', crossorigin: 'anonymous' },
-        /*{ src: "https://code.jquery.com/jquery-3.4.1.min.js" },
+        /*{ src: "https://code.jquery.com/jquery-3.4.1.min.js" }, */
         { src: "https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" },
-        { src: "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js", integrity: "sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13", crossorigin: "anonymous" }, */
+        { src: "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js", integrity: "sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13", crossorigin: "anonymous" }, 
 
         /* Parallaxs Libraries  */
         /* { src: "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" },  */
