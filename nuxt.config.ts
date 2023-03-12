@@ -21,23 +21,25 @@ export default defineNuxtConfig({
        Icon Font Stylesheet */
         { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css' },
         { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css' },
-        { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css', integrity: 'sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3', crossorigin: 'anonymous' }
+        { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css', integrity: "sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3", crossorigin: "anonymous" },
       ],
       script: [
         /* JavaScript Libraries */
         { src: 'https://code.jquery.com/jquery-3.6.4.min.js', integrity: 'sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=', crossorigin: 'anonymous' },
         /*{ src: "https://code.jquery.com/jquery-3.4.1.min.js" }, */
-        { src: "https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" },
-        { src: "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js", integrity: "sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13", crossorigin: "anonymous" }, 
+        { src: 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js', integrity: 'sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p', crossorigin: 'anonymous' },
 
-        /* Parallaxs Libraries  */
+        /*{ src: "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js", integrity: "sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13", crossorigin: "anonymous" }, 
+ 
+ 
+         /* Parallaxs Libraries  */
         /* { src: "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" },  */
-        { src: "https://cdn.jsdelivr.net/parallax.js/1.4.2/parallax.min.js" }, 
+        { src: "https://cdn.jsdelivr.net/parallax.js/1.4.2/parallax.min.js" },
       ],
     }
   },
 
-  /* Template Stylesheet */
+  /* Template Stylesheet  */
   css: ['@/assets/css/style.css', '@/assets/css/bootstrap.min.css'],
 
   /* nuxt/image-edge borde */
