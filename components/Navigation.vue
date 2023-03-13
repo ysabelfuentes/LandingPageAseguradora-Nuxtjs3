@@ -4,7 +4,7 @@
             <nuxt-link class="navbar-brand d-flex align-items-center px-4 px-lg-5" to="/">
                 <h1 class="m-0">Aseguradora España</h1>
             </nuxt-link>
-            <button id="buttonavbarCollapse" type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-label="">
+            <button value="Button navbarCollapse" type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-label="Button navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div id="navbarCollapse" class="collapse navbar-collapse">
